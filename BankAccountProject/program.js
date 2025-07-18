@@ -1,5 +1,4 @@
 const BankAccount = require("./bankAccount");
-const InsufficientFundsException = require("./insufficientFundsException");
 
 function main() {
     // Create two bank accounts
